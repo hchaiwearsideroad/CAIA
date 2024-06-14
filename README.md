@@ -1,16 +1,34 @@
-Choosing hedge funds that can consistently outperform their peers is difficult, even with a great process and an experienced team. One of the challenges of active hedge fund selection is the wide return distribution. Not all hedge funds are alike, even within the same investment strategies. In this chart, we show the return dispersion in a box-and-whisker chart for different types of strategies. Take long/short equity funds as an example, which typically have a high and positive beta to equity markets. The best-performing fund gained over 60%, but the worst-performing fund lost over 70%. For discretionary macro, the majority of the funds navigated 2023 very well producing a positive return, but one fund blew up and lost over 70%. These types of left-tail funds are considerably impactful to your portfolio book, given that the hedge fund portfolios tend to be concentrated.
-The second reason making active hedge fund selection difficult is that there is little return persistent in hedge fund performance. In other words, by looking at past performance alone, it’s very difficult which hedge funds will outperform their peers in the next period. 
-I have a question for you: if we rank all of the hedge funds within a hedge fund benchmark universe in quartiles, what percentage of top-quartile funds remain in the top quarter after three years on average?
-A: around 75%, B: around 50% or C: around 25%. 
-This is the result. Let me explain how to read this chart.
-The first two bars on the left show, on average, the probability of a top quartile fund, indicated by blue, moving to a different quartile in a three-year period. Therefore, if a fund starts in the top quartile position, it has a 28% chance of remaining in the top quartile, but it also has a 23% chance of becoming a second-quartile fund, a 23% chance of becoming a third-quartile fund, 26% chance of being a bottom quartile fund. It is almost as likely to stay in the top quartile as it is to move to the bottom quartile. 
+Introduction
+
+Choosing hedge funds that can consistently outperform their peers is a challanging endeavor, even with a robust process and an experienced team. One significant challenge in active hedge fund selection is the wide return distribution among funds. Not all hedge funds are alike, even within the same investment strategies. This diversity in performance is what makes the selection process both fascinating but also complex and hard to get right.
+
+Return Dispersion
+In this chart, we show the return dispersion in a box-and-whisker chart for different types of strategies. This type of chart effectively displays the variability in returns, highlighting the differences between the best and worst performers.
+
+For instance, take long/short equity funds as an example, which typically have a high and positive beta to equity markets,how significant variability. The best-performing fund in this straetgy gained over 60%, while the worst-performing fund lost over 70%. Such a wide range underscores the importance of careful selection and monitoring.
+
+Similarly, for discretionary macro fund, which rely on managers making specific bets on macroeconomic developments show varied performance. the majority of the funds navigated 2023 very well producing a positive return, but one fund blew up and lost over 70%. While the majority navigated 2023 well, producing positive returns, one fund experienced a significant loss of over 70%. These extreme losses can greatly impact a portfolio, especially given the concentrated nature of many hedge fund allocations. The presence of such outliers, or “left-tail” funds, can substantially affect the overall performance and risk profile of a hedge fund portfolio.
+
+Lack of Return Persistence
+The second reason making active hedge fund selection difficult is that there is little return persistent in hedge fund performance. In simpler terms, past performance is not a reliable indicator of future success.
+
+Let me pose a question: If we rank all hedge funds in a benchmark universe by quartiles, what percentage of top-quartile funds remain in the top quartile after three years? Is it A: around 75%, B: around 50%, or C: around 25%?
+
+The data shows a surprising reality. The first two bars on the left illustrate the probability of a top-quartile fund moving into a different quartile over three years. Therefore, if a fund starts in the top quartile position, indicated in blue, only has a 28% chance of staying there. Moreover, it has a 23% chance of moving to the second quartile, a 23% chance of dropping to the third quartile, and a 26% chance of falling to the bottom quartile.  Essentially, a top-quartile fund is almost as likely to end up in the bottom quartile as it is to stay at the top.
 
 Conversely, looking at the two bars on the right-hand side, we saw that a fund that starts as a bottom performer has a 27% chance of becoming the top performer in three years.
 
 In fact, regardless of which quartile a fund starts in, it seems that this fund has an equal chance (around 25%) of being in any of the quartiles. This suggests randomness in hedge funds’ performance against their peers, making it very difficult to identify the future outperformer just by looking at past performance alone.
-We can look at this in a different way. Compared to an equally weighted benchmark, what percentage of funds can beat the benchmark consecutively? By definition of the equally weighted benchmark, over one year, 50% of the funds beat the benchmark. However, this chart shows over two consecutive years and three consecutive years, the number of funds that beat the benchmark reduced significantly. Again, illustrating how the challenges of selecting hedge funds and the difficulty of building a hedge fund portfolio that consistently beat the benchmark.  
+
+
+Difficulty of consistently outpeform benchmark
+We can look at this in a different way. what percentage of funds that beat an equally weighted benchmark consecutively?
+By definition of the equally weighted benchmark, over one year, 50% of the funds beat the benchmark. However, the number of funds beating the benchmark drops significantly over two and three consecutive years.  This pattern underscores the challenges of selecting hedge funds and the difficulty of building a hedge fund portfolio that consistently beat the benchmark.  
+
 These are not unique challenges to the hedge fund industry. We saw similar challenges in equities and fixed-income, and the market’s response to this is an explosion of passive vehicles that offer investors an extremely cheap and efficient way to access different asset classes, factors, or all types of securities.
 However, passive investing in hedge funds wasn’t available until recently when we launched the abrdn Eclipse hedge fund benchmark tracker platform, which tracks the HFR’s investable benchmark indices.
+
+Introduction of Passive Investing in Hedge Funds
 HFR’s investable indices addressed a lot of legacy issues in hedge fund benchmarks. Unlike other non-investable hedge fund benchmarks where the construction methodology is filled with bias and assumptions, the investable index is a live index that follows a pre-determined methodology which eliminates the common biases, with a realistic rebalance methodology, making the indices satisfy CFA’s SAMURAI principle for benchmarking which is Specified, Appropriate, Measurable, Unambiguous, Reflective and Investable. Because the benchmark index is investable, the abrdn Eclipse can run tracker funds to completely track the benchmarks by investing in all of the underlying hedge funds with the same weights as the benchmarks.
 Currently, we have 9 tracker funds, with one tracker fund on the top level that tracks the flagship HFRI 500 Index, which is meant to represent the overall investable hedge fund universe. In addition, there are eight sub-strategy tracker funds that track eight distinct sub-strategies that make up the HFRI 500 Index. This enables flexibility and customisation capabilities for our clients.
 So, what are some of the benefits of investing passively in hedge funds?
